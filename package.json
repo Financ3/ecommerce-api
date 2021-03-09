@@ -1,0 +1,27 @@
+{
+  "name": "ecommerce-api",
+  "version": "1.0.0",
+  "description": "Lab for day 2 of week 4 devmountain wr10 class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error - no test file setup\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Financ3/ecommerce-api.git"
+  },
+  "keywords": [
+    "test",
+    "devmountain",
+    "wr10"
+  ],
+  "author": "Tanner Francis",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Financ3/ecommerce-api/issues"
+  },
+  "homepage": "https://github.com/Financ3/ecommerce-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
